@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
         calculateTip(3)
     }
 
@@ -31,9 +32,11 @@ class ViewController: UIViewController {
         
         //Update tip amount label
         tipAmountLabel.text = (String(format: "$%.2f", tip))
+        tipAmountLabel.sizeToFit()
         
         //Update total amount :
         totalLabel.text = String(format : "$%.2f", total)
+        totalLabel.sizeToFit()
         
         
     }
