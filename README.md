@@ -19,6 +19,8 @@ The following **required** functionality is complete:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="g3kg2AG"><a href="https://imgur.com/g3kg2AG">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+[img]https://i.imgur.com/g3kg2AG.gif[/img]
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
