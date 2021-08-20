@@ -17,6 +17,8 @@ The following **required** functionality is complete:
 
 [Imgur](https://imgur.com/g3kg2AG)
 
+<img src="ezgif-7-d182f0ec8d86.gif" width=200/>
+
 
 <img src="https://i.imgur.com/g3kg2AG.gif", width=250 />
 
