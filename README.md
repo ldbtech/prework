@@ -21,6 +21,10 @@ The following **required** functionality is complete:
 
 [img]https://i.imgur.com/g3kg2AG.gif[/img]
 
+
+<img src="https://i.imgur.com/g3kg2AG.gif", width=250 />
+
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
